@@ -2,6 +2,9 @@
 // @name         Line-Sticker-Downloader
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @updateURL    https://github.com/odominecraft/Tampermonkey-scripts/raw/master/line-sticker-downloader.user.js
+// @downloadURL  https://github.com/odominecraft/Tampermonkey-scripts/raw/master/line-sticker-downloader.user.js
+// @supportURL   https://github.com/odominecraft/Tampermonkey-scripts/issues
 // @description  Downloads everything as a ZIP from the line Sticker store
 // @author       https://github.com/odominecraft
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
