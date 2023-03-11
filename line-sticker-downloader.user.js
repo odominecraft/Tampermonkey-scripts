@@ -105,7 +105,7 @@
         let progAdd = 10 / children.length;
         statusMessage.nodeValue = "Getting list of stickers...";
 
-        /** @type {{"type": "animation"|"static"|"animation_sound","id": String,"staticUrl": String,"fallbackStaticUrl": String,"animationUrl": String,"popupUrl": String,"soundUrl": String}[]} */
+        /** @type {{"type": "animation"|"static"|"animation_sound"|"popup_sound","id": String,"staticUrl": String,"fallbackStaticUrl": String,"animationUrl": String,"popupUrl": String,"soundUrl": String}[]} */
         const data = [];
 
         children.forEach((li) => {
