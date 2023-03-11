@@ -7,7 +7,7 @@
 // @supportURL   https://github.com/odominecraft/Tampermonkey-scripts/issues
 // @description  Downloads everything as a ZIP from the line Sticker store
 // @author       https://github.com/odominecraft
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=store.line.me
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
 // @match        https://store.line.me/stickershop/product/*
